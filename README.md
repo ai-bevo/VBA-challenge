@@ -9,3 +9,4 @@ The script will pull the individual stock ticker values, the high/low from the c
 
 Finally, it will loop through each worksheet to repeat these tasks for each year of data provided.
 
+
